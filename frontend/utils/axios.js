@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api=axios.create({
-    baseURL:import.meta.env.VITE_SERVER_URL,
+    baseURL:https://d3i68o1c9cnxfn.cloudfront.net,
     withCredentials:true
 })
 
